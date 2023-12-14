@@ -1,0 +1,6 @@
+enlaces de consultas hechas en la web
+1- consulta para el punto uno respecto a numeros romanos: 
+https://stackoverflow.com/questions/12967896/converting-integers-to-roman-numerals-java
+
+2- consulta dos para expresiones regulares en el punto dos de validaciones
+https://chuidiang.org/index.php?title=Expresiones_Regulares_en_Java
